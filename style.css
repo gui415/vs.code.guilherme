@@ -1,3 +1,8 @@
 body {
     background-color: rgba(86, 17, 133, 0.753);
 }
+h1 {
+    color: var(--vermelha-escura);
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
