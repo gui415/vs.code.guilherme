@@ -1,6 +1,10 @@
 body {
-    background-color: rgba(17, 16, 16, 0.59);
+    background-color: rgba(27, 110, 106, 0.59);
 }
 p {
     color:brown
+}
+
+.guigui {
+    font-style: italic;
 }
