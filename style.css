@@ -1,8 +1,6 @@
 body {
-    background-color: rgba(86, 17, 133, 0.753);
+    background-color: rgba(17, 16, 16, 0.59);
 }
-h1 {
-    color: var(--vermelha-escura);
-    margin-bottom: 20px;
-    font-size: 2rem;
-  }
+p {
+    color:brown
+}
