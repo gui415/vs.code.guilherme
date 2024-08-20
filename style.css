@@ -3,7 +3,7 @@ body {
     text-align: conter;
 }
 p {
-    color:rgba(117, 0, 185, 0.945)
+    color:hsla(192, 100%, 50%, 0.712)
 }
 
 .guigui {
@@ -11,13 +11,16 @@ p {
 }
 
 h1{
+    color: brown;
 text-align: center;
 }
 
 h2{
+    color: brown;
     text-align: center;
 }
 li{
+    color: rgba(0, 140, 255, 0.678);
     text-align: center;
 }
 
