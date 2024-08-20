@@ -1,10 +1,19 @@
 body {
     background-color: rgba(96, 28, 28, 0.59);
+    text-align: conter;
 }
 p {
-    color:rgb(10, 181, 238)
+    color:rgba(117, 0, 185, 0.945)
 }
 
 .guigui {
     font-style: italic;
+}
+
+h1{
+text-align: center;
+}
+
+h2{
+    text-align: center;
 }
