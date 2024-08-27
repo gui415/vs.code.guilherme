@@ -1,11 +1,16 @@
 body {
-    background-color: rgb(160, 172, 133);
-    text-align: conter;
+    background-color: rgba(37, 12, 83, 0.404);
+    text-align: center;
 }
+
 p {
-    color:hsla(205, 90%, 10%, 0.712)
+    color: rgb(38, 96, 219);
 }
 
 .guigui {
     font-style: italic;
+}
+
+.vaga {
+    width: 50%;
 }
