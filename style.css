@@ -2,9 +2,19 @@ body {
     background-color: rgb(204, 64, 64);
     text-align: center;
 }
+nav a {
+   margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgba(204, 168, 238, 0.192)
+}
 
 p {
     color: rgb(49, 10, 10);
+}
+h1 {
+    color: darkturquoise;
 }
 
 .guigui {
@@ -13,4 +23,7 @@ p {
 
 .vaga {
     width: 50%;
+}
+.centro {
+    text-align: center;
 }
