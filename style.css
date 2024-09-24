@@ -1,19 +1,22 @@
-body {font-size: 16px;
+body {
+    font-size: 16px;
     background-color: rgb(255, 105, 85);
     text-align: center;
 }
 nav a {
    margin-top: 5px;
     padding: 2px;
-    font-size: 17px;
+    font-size: 12px;
     text-decoration: none;
     color:rgba(204, 168, 238, 0.192)
 }
 
-p {font-size: 20px;
+p {
+    font-size: 25px;
 color: rgb(49, 10, 10);
 }
-h1 {font-size: 40px;
+h1 {
+    font-size: 50px;
     color: darkturquoise;
 }
 
