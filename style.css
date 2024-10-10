@@ -34,3 +34,10 @@ h1 {
 footer {
     background-color: white;
 }
+.oiu { 
+    margin-top: 5px;
+    padding: 2px;
+    font-size: 12px;
+    text-decoration: none;
+    color:rgba(204, 168, 238, 0.192)
+}
